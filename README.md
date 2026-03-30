@@ -32,3 +32,8 @@ Reducing excessive discounting, especially above 30%, can improve overall profit
 	•	How to move from raw data to actionable insights
 	•	Identifying root causes behind business problems
 	•	Building clear and impactful data visualizations
+
+
+## 📊 Customer Segmentation Dashboard
+
+![Dashboard](customer-segmentation-dashboard.png)
