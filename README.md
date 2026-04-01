@@ -2,7 +2,14 @@
 
 📊 Project Overview
 
-This project analyzes retail sales data to identify key drivers of profitability and understand how discount strategies impact business performance.
+This project explores retail sales data to understand customer behavior and profitability from multiple perspectives.
+
+The analysis includes:
+- Customer segmentation (RFM)
+- Discount impact on profit
+- Category and sub-category performance
+
+The goal is to identify key drivers of profitability and uncover hidden business risks.
 
 🛠 Tools Used
 	•	SQL
@@ -33,8 +40,10 @@ Reducing excessive discounting, especially above 30%, can improve overall profit
 	•	Identifying root causes behind business problems
 	•	Building clear and impactful data visualizations
 
+These findings led to a deeper investigation into profitability drivers, particularly the role of discount strategies.
 
-## 📊 Customer Segmentation Dashboard
+
+## 📊 Customer Segmentation Analysis
 
 ![Dashboard](customer-segmentation-dashboard.png)
 
@@ -50,9 +59,12 @@ Key Findings
 ### Key Takeaway
 Higher sales do not always mean better business performance. In this case, aggressive discounting increased sales activity but reduced profitability.
 
-## 📊 Discount Impact Dashboard
+To further understand profitability issues, the analysis was extended to category and sub-category performance.
+
+## 📊 Discount Impact Analysis
 
 ![Discount Impact Dashboard](./discount-impact-dashboard.png)
+
 
 ## 📊 Category & Product Profitability Analysis
 
@@ -73,6 +85,6 @@ Revenue vs Profit by Sub-Category
 
 A small number of sub-categories, particularly Tables, drive a disproportionate share of total losses.
 
-## 📊 Sub-Category Profitability Analysis Dashboard
+## 📊 Sub-Category Profitability Analysis 
 
 ![Sub-Category Profitability](./Sub-Category%20Profitability.png)
