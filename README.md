@@ -47,6 +47,7 @@ These findings led to a deeper investigation into profitability drivers, particu
 
 ![Dashboard](customer-segmentation-dashboard.png)
 
+
 ## 📉 Discount Impact Analysis
 
 As an extension of the original retail sales project, I analyzed how discount levels affect profitability.
@@ -88,3 +89,11 @@ A small number of sub-categories, particularly Tables, drive a disproportionate 
 ## 📊 Sub-Category Profitability Analysis 
 
 ![Sub-Category Profitability](./Sub-Category%20Profitability.png)
+
+## Final Insight
+
+This analysis shows that high revenue does not always translate into profitability.
+
+While certain strategies (such as heavy discounting) can increase sales, they may simultaneously reduce overall profit.
+
+Additionally, a small number of products can disproportionately impact business performance, highlighting the importance of detailed, data-driven analysis.
