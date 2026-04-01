@@ -75,4 +75,4 @@ A small number of sub-categories, particularly Tables, drive a disproportionate 
 
 ## 📊 Sub-Category Profitability Analysis Dashboard
 
-![Sub-Category Profitability](./sub-category-profitability.png)
+![Sub-Category Profitability](./Sub-Category%20Profitability.png)
