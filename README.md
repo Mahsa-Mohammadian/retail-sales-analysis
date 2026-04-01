@@ -54,3 +54,21 @@ Higher sales do not always mean better business performance. In this case, aggre
 
 ![Discount Impact Dashboard](./discount-impact-dashboard.png)
 
+## 📊 Category & Product Profitability Analysis
+
+To further investigate profitability, I analyzed performance at the category and sub-category level.
+
+## Key Findings
+	•	Furniture generates high sales but relatively low profit
+	•	Tables and Bookcases are the main loss-driving sub-categories
+	•	A small number of sub-categories are responsible for most of the losses
+	•	High sales do not always guarantee profitability
+
+## Visual Analysis
+
+Sub-Category Profitability
+Revenue vs Profit by Sub-Category
+
+## Key Insight
+
+A small number of sub-categories, particularly Tables, drive a disproportionate share of total losses.
