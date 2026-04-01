@@ -4,19 +4,19 @@
 
 This project explores retail sales data to understand customer behavior and profitability from multiple perspectives.
 
-The analysis includes:
+## The analysis includes:
 - Customer segmentation (RFM)
 - Discount impact on profit
 - Category and sub-category performance
 
 The goal is to identify key drivers of profitability and uncover hidden business risks.
 
-🛠 Tools Used
+## 🛠 Tools Used
 	•	SQL
 	•	Power BI
 	•	Google Sheets
 
-📈 Key Metrics
+## 📈 Key Metrics
 	•	Total Sales: 2.33M
 	•	Total Profit: 292K
 	•	Profit Margin: 12.56%
@@ -31,11 +31,11 @@ The goal is to identify key drivers of profitability and uncover hidden business
 
 Reducing excessive discounting, especially above 30%, can improve overall profitability and reduce losses in key sub-categories like Tables.
 
-📂 Project Assets
+## 📂 Project Assets
 	•	Power BI Dashboard (PDF)
 	•	Dataset: Sample Superstore
 
-🚀 What I Learned
+## 🚀 What I Learned
 	•	How to move from raw data to actionable insights
 	•	Identifying root causes behind business problems
 	•	Building clear and impactful data visualizations
