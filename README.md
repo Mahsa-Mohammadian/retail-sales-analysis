@@ -37,3 +37,14 @@ Reducing excessive discounting, especially above 30%, can improve overall profit
 ## 📊 Customer Segmentation Dashboard
 
 ![Dashboard](customer-segmentation-dashboard.png)
+
+📉 Discount Impact Analysis
+
+As an extension of the original retail sales project, I analyzed how discount levels affect profitability.
+
+Key Findings
+	•	Profitability decreases as discount levels increase
+	•	Discounts above ~30% are associated with negative profit
+	•	High discounts may still generate sales, but they significantly reduce overall profitability
+
+Dashboard
