@@ -48,3 +48,4 @@ Key Findings
 	•	High discounts may still generate sales, but they significantly reduce overall profitability
 
 Dashboard
+discount-impact-dashboard.png
