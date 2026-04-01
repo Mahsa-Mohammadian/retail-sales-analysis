@@ -21,7 +21,7 @@ The goal is to identify key drivers of profitability and uncover hidden business
 	•	Total Profit: 292K
 	•	Profit Margin: 12.56%
 
-🔍 Key Insights
+ ## 🔍 Key Insights
 	•	Furniture category has significantly lower profitability compared to others
 	•	Tables is the most loss-making sub-category
 	•	Higher discounts are strongly associated with lower profitability
@@ -51,7 +51,7 @@ These findings led to a deeper investigation into profitability drivers, particu
 
 As an extension of the original retail sales project, I analyzed how discount levels affect profitability.
 
-Key Findings
+## Key Findings
 	•	Profitability decreases as discount levels increase
 	•	Discounts above ~30% are associated with negative profit
 	•	High discounts may still generate sales, but they significantly reduce overall profitability
