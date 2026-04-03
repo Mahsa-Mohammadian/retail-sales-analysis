@@ -103,6 +103,9 @@ Additionally, a small number of products can disproportionately impact business 
 
 ![Cohort Analysis](cohort-retention-analysis.png)
 
+
+
+
 This analysis explores customer retention behavior over time using cohort analysis.
 
 Customers were grouped based on their first purchase month, and their activity was tracked in the following months.
