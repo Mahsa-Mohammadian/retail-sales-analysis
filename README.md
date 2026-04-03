@@ -97,3 +97,26 @@ This analysis shows that high revenue does not always translate into profitabili
 While certain strategies (such as heavy discounting) can increase sales, they may simultaneously reduce overall profit.
 
 Additionally, a small number of products can disproportionately impact business performance, highlighting the importance of detailed, data-driven analysis.
+
+
+## 📊 Customer Retention Cohort Analysis
+
+![Cohort Analysis](cohort-retention-analysis.png)
+
+This analysis explores customer retention behavior over time using cohort analysis.
+
+Customers were grouped based on their first purchase month, and their activity was tracked in the following months.
+
+Retention rate was calculated as the percentage of customers who returned after their initial purchase.
+
+### 🔍 Key Insights
+
+- Customer retention drops sharply after the first month  
+- Most cohorts retain less than 15% of users after month one  
+- Some cohorts show delayed re-engagement behavior  
+- A small group of customers remains active over the long term  
+
+### 🛠 Tools Used
+
+- SQL (PostgreSQL)  
+- Power BI
